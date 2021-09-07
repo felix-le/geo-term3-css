@@ -1,0 +1,15 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+h1,
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+
+.show {
+  display: block !important;
+}
